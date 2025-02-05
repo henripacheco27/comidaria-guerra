@@ -1,56 +1,56 @@
 {
-  "name": "Trevor Tyler Lee",
-  "bio": "Free, open source LinkTree alternative built with Astro & Tailwind CSS",
+  "name": "Comidaria Guerra",
+  "bio": "Comida que existe",
   "profilePicture": "/profile-picture.jpg",
-  "url": "https://trevortylerlee.com",
+  "url": "linktr.ee/comidariaguerra13",
   "blog": true,
   "iconLinks": [
     {
       "id": "1728534577184",
-      "icon": "link",
-      "url": "https://boogerbuttcheeks.com"
+      "icon": "whatsApp",
+      "url": "https://api.whatsapp.com/message/XJVOCPYRTBG6I1?autoload=1&app_absent=0"
     },
     {
       "id": "1728534577185",
       "icon": "email",
-      "url": "mailto:ttl@trevortylerlee.com"
+      "url": "mailto:comidariaguerra@gmail.com"
     },
     {
       "id": "1728534577186",
-      "icon": "github",
-      "url": "https://github.com/trevortylerlee"
+      "icon": "instagram",
+      "url": "https://www.instagram.com/comidariaguerra/"
     },
     {
       "id": "1728534577187",
-      "icon": "twitter",
-      "url": "https://twitter.com/boogerbuttcheek"
+      "icon": "googleDrive",
+      "url": "https://drive.google.com/drive/folders/1IHBM9SqVQ9Gai9PXp6GsATyBlF8MoFvk?q=sharedwith:public%20parent:1IHBM9SqVQ9Gai9PXp6GsATyBlF8MoFvk"
     }
   ],
   "customLinks": [
     {
       "id": "1728534585738",
-      "title": "🍌 donkey kong country on the snes",
-      "url": "https://youtu.be/7hgr-ZuzXng?si=v3dr9mu2cBL_D4ED"
+      "title": "Nosso cardápio ",
+      "url": "https://app.gula.menu/welcome?pPlace=bqFCZnqZskuyRnCsoGfG&pTableNumber=BC"
     },
     {
       "id": "1728534585739",
-      "title": " Best macOS apps",
-      "url": "https://macintoshapps.com"
+      "title": "Peça em casa: Delivery Mercado Novo",
+      "url": "https://www.ifood.com.br/delivery/belo-horizonte-mg/comidaria-guerra---mercado-novo-centro/d1399d1d-72de-4067-8faf-5ce1c0f0fcd7?srsltid=AfmBOoqJphc7MGgCOqvibPDR4ot4uO-TLQ52mILyneLANggoMJMXlKAJ"
     },
     {
       "id": "1728534585740",
-      "title": "💕 36 Questions To Fall In Love",
-      "url": "https://thirtysixquestions.org"
+      "title": "Peça em casa: Delivery Savassi",
+      "url": "https://www.ifood.com.br/delivery/belo-horizonte-mg/comidaria-guerra-carmo/b80c498e-8950-461c-926f-04d876f75d82"
     },
     {
       "id": "1728534585741",
-      "title": "SuperWeb Themes",
-      "url": "https://superwebthemes.com"
+      "title": "Vem almoçar com a gente 😋",
+      "url": "https://g.co/kgs/oqwePg1"
     },
     {
       "id": "1728534585742",
-      "title": "♥ Donate",
-      "url": "https://donate.stripe.com/aEU6ow7VEf7u7sseUU"
+      "title": "Faça parte da família",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeEG3n4po52ZIkRNqSGZWEDO8Pqi0Ea6JtbGKSzmR_RQ4PP9g/viewform"
     }
   ]
 }
