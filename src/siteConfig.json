@@ -7,7 +7,7 @@
   "iconLinks": [
     {
       "id": "1728534577184",
-      "icon": "whatsApp",
+      "icon": "whatsapp",
       "url": "https://api.whatsapp.com/message/XJVOCPYRTBG6I1?autoload=1&app_absent=0"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": "1728534577187",
-      "icon": "googleDrive",
+      "icon": "google-drive",
       "url": "https://drive.google.com/drive/folders/1IHBM9SqVQ9Gai9PXp6GsATyBlF8MoFvk?q=sharedwith:public%20parent:1IHBM9SqVQ9Gai9PXp6GsATyBlF8MoFvk"
     }
   ],
