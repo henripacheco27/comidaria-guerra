@@ -1,6 +1,7 @@
 ---
 title: Receitas da chef
 description: Ela só cozinha trem bão demais
+author: Sara Pereira
 publicationDate: 2024-07-02
 ---
 
