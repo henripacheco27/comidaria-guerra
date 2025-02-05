@@ -1,6 +1,6 @@
 ---
-title: Top 3 melhores restaurantes veganos para almoçar em BH
-description: Nós recomendamos esses
+title: Receitas da chef
+description: Ela só cozinha trem bão demais
 publicationDate: 2024-07-02
 ---
 
